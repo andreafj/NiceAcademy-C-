@@ -1,0 +1,15 @@
+C:\C#\Ejercicios\DataVariables\bin\Debug\net7.0\DataVariables.exe
+C:\C#\Ejercicios\DataVariables\bin\Debug\net7.0\DataVariables.deps.json
+C:\C#\Ejercicios\DataVariables\bin\Debug\net7.0\DataVariables.runtimeconfig.json
+C:\C#\Ejercicios\DataVariables\bin\Debug\net7.0\DataVariables.dll
+C:\C#\Ejercicios\DataVariables\bin\Debug\net7.0\DataVariables.pdb
+C:\C#\Ejercicios\DataVariables\obj\Debug\net7.0\DataVariables.csproj.AssemblyReference.cache
+C:\C#\Ejercicios\DataVariables\obj\Debug\net7.0\DataVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Ejercicios\DataVariables\obj\Debug\net7.0\DataVariables.AssemblyInfoInputs.cache
+C:\C#\Ejercicios\DataVariables\obj\Debug\net7.0\DataVariables.AssemblyInfo.cs
+C:\C#\Ejercicios\DataVariables\obj\Debug\net7.0\DataVariables.csproj.CoreCompileInputs.cache
+C:\C#\Ejercicios\DataVariables\obj\Debug\net7.0\DataVariables.dll
+C:\C#\Ejercicios\DataVariables\obj\Debug\net7.0\refint\DataVariables.dll
+C:\C#\Ejercicios\DataVariables\obj\Debug\net7.0\DataVariables.pdb
+C:\C#\Ejercicios\DataVariables\obj\Debug\net7.0\DataVariables.genruntimeconfig.cache
+C:\C#\Ejercicios\DataVariables\obj\Debug\net7.0\ref\DataVariables.dll

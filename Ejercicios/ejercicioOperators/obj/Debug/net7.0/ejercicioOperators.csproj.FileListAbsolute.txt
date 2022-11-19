@@ -1,0 +1,15 @@
+C:\C#\Ejercicios\ejercicioOperators\bin\Debug\net7.0\ejercicioOperators.exe
+C:\C#\Ejercicios\ejercicioOperators\bin\Debug\net7.0\ejercicioOperators.deps.json
+C:\C#\Ejercicios\ejercicioOperators\bin\Debug\net7.0\ejercicioOperators.runtimeconfig.json
+C:\C#\Ejercicios\ejercicioOperators\bin\Debug\net7.0\ejercicioOperators.dll
+C:\C#\Ejercicios\ejercicioOperators\bin\Debug\net7.0\ejercicioOperators.pdb
+C:\C#\Ejercicios\ejercicioOperators\obj\Debug\net7.0\ejercicioOperators.csproj.AssemblyReference.cache
+C:\C#\Ejercicios\ejercicioOperators\obj\Debug\net7.0\ejercicioOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Ejercicios\ejercicioOperators\obj\Debug\net7.0\ejercicioOperators.AssemblyInfoInputs.cache
+C:\C#\Ejercicios\ejercicioOperators\obj\Debug\net7.0\ejercicioOperators.AssemblyInfo.cs
+C:\C#\Ejercicios\ejercicioOperators\obj\Debug\net7.0\ejercicioOperators.csproj.CoreCompileInputs.cache
+C:\C#\Ejercicios\ejercicioOperators\obj\Debug\net7.0\ejercicioOperators.dll
+C:\C#\Ejercicios\ejercicioOperators\obj\Debug\net7.0\refint\ejercicioOperators.dll
+C:\C#\Ejercicios\ejercicioOperators\obj\Debug\net7.0\ejercicioOperators.pdb
+C:\C#\Ejercicios\ejercicioOperators\obj\Debug\net7.0\ejercicioOperators.genruntimeconfig.cache
+C:\C#\Ejercicios\ejercicioOperators\obj\Debug\net7.0\ref\ejercicioOperators.dll

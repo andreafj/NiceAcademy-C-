@@ -1,0 +1,15 @@
+C:\C#\Ejercicios\IfLog\bin\Debug\net7.0\IfLog.exe
+C:\C#\Ejercicios\IfLog\bin\Debug\net7.0\IfLog.deps.json
+C:\C#\Ejercicios\IfLog\bin\Debug\net7.0\IfLog.runtimeconfig.json
+C:\C#\Ejercicios\IfLog\bin\Debug\net7.0\IfLog.dll
+C:\C#\Ejercicios\IfLog\bin\Debug\net7.0\IfLog.pdb
+C:\C#\Ejercicios\IfLog\obj\Debug\net7.0\IfLog.csproj.AssemblyReference.cache
+C:\C#\Ejercicios\IfLog\obj\Debug\net7.0\IfLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Ejercicios\IfLog\obj\Debug\net7.0\IfLog.AssemblyInfoInputs.cache
+C:\C#\Ejercicios\IfLog\obj\Debug\net7.0\IfLog.AssemblyInfo.cs
+C:\C#\Ejercicios\IfLog\obj\Debug\net7.0\IfLog.csproj.CoreCompileInputs.cache
+C:\C#\Ejercicios\IfLog\obj\Debug\net7.0\IfLog.dll
+C:\C#\Ejercicios\IfLog\obj\Debug\net7.0\refint\IfLog.dll
+C:\C#\Ejercicios\IfLog\obj\Debug\net7.0\IfLog.pdb
+C:\C#\Ejercicios\IfLog\obj\Debug\net7.0\IfLog.genruntimeconfig.cache
+C:\C#\Ejercicios\IfLog\obj\Debug\net7.0\ref\IfLog.dll
